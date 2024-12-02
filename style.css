@@ -1,0 +1,34 @@
+/* styles.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .notification-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #4a00ff;
+    color: white;
+    padding: 10px 33.3%;
+    font-size: 14px;
+    line-height: 2.5;
+  }
+  
+  .notification-bar .icon {
+    margin-right: 8px;
+  }
+  
+  .notification-bar .text {
+    flex: 1;
+  }
+  
+  .notification-bar .cta {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 8px;
+  }
+
+  .sec-header .nac-item .hideen 
+  
